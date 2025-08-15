@@ -1,2 +1,2 @@
-# quanki
-A flashcard website that combines Quizlet + Anki (hopefully).
+# Quanki
+A flashcard website inspired by Quizlet and Anki.
