@@ -1,2 +1,2 @@
-# Quanki
-A flashcard website inspired by Quizlet and Anki.
+# Persimmon
+Ripen your knowledge.
